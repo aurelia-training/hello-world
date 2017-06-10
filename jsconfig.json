@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "typescript",
+    "module": "amd",
+    "experimentalDecorators": true
+  }
+}
